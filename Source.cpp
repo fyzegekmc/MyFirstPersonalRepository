@@ -1931,5 +1931,7 @@ void MyPlayFunc()
 // I am an innocent contributor, dont mind me editing :)
 
 
+//Now editing and commmiting in VS Code
 
+//I have staged a change but don't know how to commit the change or do anything else yet...
 
