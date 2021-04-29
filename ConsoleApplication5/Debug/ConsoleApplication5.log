@@ -1,0 +1,26 @@
+﻿Build started 6.04.2021 11:20:40.
+     1>Project "C:\Users\user\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ConsoleApplication5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\user\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(134): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(802): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(1385): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(1434): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(1768): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(1860): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(495): warning C4715: 'NumericalIntegrator' : not all control paths return a value
+     1>c:\users\user\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(1006): warning C4715: 'NormalizeStrings' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2012\Projects\ConsoleApplication5\Debug\ConsoleApplication5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2012\Projects\ConsoleApplication5\Debug\ConsoleApplication5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2012\Projects\ConsoleApplication5\Debug\ConsoleApplication5.lib" /MACHINE:X86 Debug\Source.obj
+         ConsoleApplication5.vcxproj -> C:\Users\user\Documents\Visual Studio 2012\Projects\ConsoleApplication5\Debug\ConsoleApplication5.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ConsoleApplication5.unsuccessfulbuild".
+         Touching "Debug\ConsoleApplication5.lastbuildstate".
+     1>Done Building Project "C:\Users\user\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.19
